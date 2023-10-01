@@ -1,3 +1,5 @@
+# Counter App
+
 import flet as ft # type: ignore
 from flet import TextField
 from flet_core.control_event import ControlEvent # type: ignore
